@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Destinasi Lombok</string>
+    <string name="heroes_name" />
+    <string name="detail">Lihat Detail</string>
+    <string name="deskripsi">Deskripsi Destinasi</string>
+    <string name="nama_destinasi">Nama Destinasi</string>
+    <string name="lokasi">Lokasi Destinasi</string>
+    <string name="about">ABOUT ME</string>
+    <string name="name">Lalu Muh. Andre Winarta</string>
+    <string name="email">glassqwert@gmail.com</string>
+    <string name="deskripsidiri">Seorang mahasiswa yang ingin berubah dan taubat dari rebahan terus menjadi produktif terus</string>
+    <string name="list">About Me</string>
+    <string name="aboutme">About Me</string>
+    <string name="nama_dest">Nama Destinasi</string>
+    <string name="details">Deskripsi</string>
+</resources>
